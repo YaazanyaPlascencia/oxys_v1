@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272433796228",
+    "project_id": "oxys-v1",
+    "storage_bucket": "oxys-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272433796228:android:4e06026bf92ff42f56ded1",
+        "android_client_info": {
+          "package_name": "com.example.oxys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272433796228-pikoelpm5lvhs2ifvbn504ojhqdcd7pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKQyFKunDsMI3uL46AWSAmBu87PUoLIqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272433796228-pikoelpm5lvhs2ifvbn504ojhqdcd7pq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
